@@ -1,9 +1,11 @@
-
 ## RUN applicatie
 npm run start
 npm run start:dev
 
-# API URL
+## Install MongoDB
+https://docs.mongodb.com/manual/administration/install-community/
+
+## API URL
 - http://localhost:3000/users/
 
 # MongoDB
